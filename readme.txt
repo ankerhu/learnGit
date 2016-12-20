@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 I want to pee.
 Git tracks changes of files.
 I don't want to pee.
+Test HEAD.
