@@ -5,4 +5,4 @@ I want to pee.
 Git tracks changes of files.
 I don't want to pee.
 Test HEAD.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
