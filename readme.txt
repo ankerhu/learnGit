@@ -6,4 +6,6 @@ Git tracks changes of files.
 I don't want to pee.
 Test HEAD.
 Creating a new branch is quick and simple.
-let's add merge.
+Let's add merge.
+Let's build a bug branch.
+fix bug 101
