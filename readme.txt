@@ -8,4 +8,4 @@ Test HEAD.
 Creating a new branch is quick and simple.
 Let's add merge.
 Let's build a bug branch.
-fix bug 101 in 2017
+fix bug 101 in 2017!
