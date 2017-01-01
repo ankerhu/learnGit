@@ -3,3 +3,4 @@ test diff now.
 test a bug branch.
 Happy new year~~
 test another bug branch in 2017
+add a new status

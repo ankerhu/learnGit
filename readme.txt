@@ -11,3 +11,4 @@ Happy new year~~
 Let's add merge.
 Let's build a bug branch.
 fix bug 101 in 2017!
+add a new statu
