@@ -6,7 +6,6 @@ Git tracks changes of files.
 I don't want to pee.
 Test HEAD.
 Creating a new branch is quick and simple.
-<<<<<<< HEAD
 let's add merge.
 Happy new year~~
 Let's add merge.
