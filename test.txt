@@ -1,4 +1,6 @@
 just test.
 test diff now.
 test a bug branch.
+<<<<<<< HEAD
 Happy new year~~
+test another bug branch in 2017
